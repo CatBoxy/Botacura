@@ -2,11 +2,6 @@
 
 My first grupal project, created with Node.js, SQL and Sequelize
 
-## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Deploy](#deploy)
-
 ## General info
 This project is simple e-commerce website focused on rock climbing and hiking products. The main objective
 was to learn how to build a complete web app and to develop a good understanding of the tools implemented.
