@@ -12,5 +12,15 @@ Project is created with:
 * MySQL
 * Sequelize version: v6.6.5
 
+## Features
+- Form validation
+- Creation of new products
+- Update of existing products
+- Deletion of products
+- Creation of new user
+- Update user info
+- Search for desired product
+- Filter products by category
+
 ## Deploy
 https://botacuradb.herokuapp.com/
