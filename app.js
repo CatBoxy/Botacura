@@ -36,8 +36,7 @@ app.use('/', userRouter);
 app.use('/products', productsRouter);
 
 
-app.listen(port || 3003, async () => {
-    console.log('Servidor corriendo en puerto');
+app.listen(port || 3000, async () => {
+    console.log('Servidor corriendo en puerto 3000');
     // await sequelize.authenticate();
-    console.log('Database conectada!')
 });
